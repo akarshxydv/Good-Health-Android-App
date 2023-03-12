@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "668646389888",
+    "project_id": "good-health-14bb3",
+    "storage_bucket": "good-health-14bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668646389888:android:bfe3e6964b156dea1ece65",
+        "android_client_info": {
+          "package_name": "com.example.goodhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668646389888-e0h7pr38p1h0hatpf6b93qmjjgeaj8nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goodhealth",
+            "certificate_hash": "99f55f167cc47884f1f59f2cf12deede93e72468"
+          }
+        },
+        {
+          "client_id": "668646389888-60s8p341p3e192775p81vha53evrg63r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkt0G73quOac_TCU2UjdxlQD_2eT-tT5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668646389888-60s8p341p3e192775p81vha53evrg63r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
